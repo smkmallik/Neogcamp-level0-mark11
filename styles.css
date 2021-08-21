@@ -57,6 +57,23 @@ footer {
     color: var(--font-color);
 }
 
+li {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-inline-start: 1rem;
+}
+
 
 .end-credits {
     margin: 1rem;
